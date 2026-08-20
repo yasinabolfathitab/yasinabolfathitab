@@ -90,7 +90,7 @@ I am a multidisciplinary engineer and developer with a deep passion for building
 
 ### 📈 GitHub Analytics:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasinabolfathitab&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasinabolfathitab&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinabolfathitab&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinabolfathitab&theme=dracula&hide_border=true" alt="GitHub Streak" />
