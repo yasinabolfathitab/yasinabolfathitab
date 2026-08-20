@@ -91,12 +91,12 @@ I am a multidisciplinary engineer and developer with a deep passion for building
 ### 📈 GitHub Analytics:
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinabolfathitab&show_icons=true&theme=dracula&hide_border=true)](https://github.com/yasinabolfathitab)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinabolfathitab&layout=compact&theme=dracula&hide_border=true)](https://github.com/yasinabolfathitab)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yasinabolfathitab&show_icons=true&theme=dracula)](https://github.com/yasinabolfathitab)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yasinabolfathitab&layout=compact&theme=dracula)](https://github.com/yasinabolfathitab)
 
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasinabolfathitab&theme=dracula&hide_border=true)](https://github.com/yasinabolfathitab)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=yasinabolfathitab&theme=dracula)](https://github.com/yasinabolfathitab)
 
 </div>
 
